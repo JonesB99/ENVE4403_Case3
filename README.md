@@ -3,4 +3,4 @@ Here are the notebooks and data for the third case study in ENVE 3403/4403. Plea
 
 This will be updated as questions are released that require additional data.
 
-The notebooks form a guide but are intentionally incomplete. Be sure to check out the week 1 tutorial content for examples of how to use the data.
+The notebooks form a guide but are intentionally incomplete. Be sure to check out the week 1 tutorial content for examples of how to use the data. change something
